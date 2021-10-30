@@ -5,8 +5,8 @@
 ![Twitter Badge](https://img.shields.io/badge/-@AWonkeyTortila-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AWonkeyTortila)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" height=180px/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" height=180px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" height=300px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" height=300px/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
