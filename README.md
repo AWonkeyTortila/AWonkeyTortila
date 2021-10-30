@@ -1,7 +1,7 @@
  <h2>Hello, welcome to my profile! 👋</h2>
  
-<b>I work on several Open-Sourced projects.</b>
-<b>All projects I have made are automatically filed under GNU v3.0, unless stated underwise</b>
+<h3>I work on several Open-Sourced projects. All projects I have made are automatically filed under GNU v3.0, unless stated underwise</h3>
+
 ![Twitter Badge](https://img.shields.io/badge/-@AWonkeyTortila-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AWonkeyTortila)
 
 <p align="left">
