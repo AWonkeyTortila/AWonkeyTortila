@@ -1,6 +1,6 @@
  <h2>Hello, welcome to my profile! 👋</h2>
  
-<h3>I work on several Open-Sourced projects. All projects I have made are automatically filed under GNU v3.0, unless stated underwise</h3>
+<h3>I work on several Open-Sourced (and Closed-Sourced) projects. These projects range from silly things to down-right cursed. Most (if not all) of the Closed-Sourced projetcs are either too cursed, archival, etc.</h3>
 
 ![Twitter Badge](https://img.shields.io/badge/-@AWonkeyTortila-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AWonkeyTortila)
 
