@@ -8,8 +8,12 @@
 - I like C, so im triying to learn it.
 - If you wanna hire me, well ya' can't because I'm 14.
 
-- [Twitter](https://https://twitter.com/AWonkeyTortila "Twitter")
+# Links:
 
+- [Twitter](https://twitter.com/AWonkeyTortila "Twitter")
+- [Youtube](https://www.youtube.com/channel/UCNEt8wd7BzBhzVEMJzD-ZFA "Youtube")
+
+<!-- Spaghetti code. (Real spaghetti code is VALVe games.-->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" height=200px/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" height=200px/>
