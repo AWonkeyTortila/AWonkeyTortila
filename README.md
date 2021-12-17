@@ -2,6 +2,12 @@
  
 <h3>I like coding stuff, such as wesbistes and apps for fun. When I'm older, I wanna be a operating system engineer. Computer science 💪</h3>
 
+# Info & Stuff:
+
+- I'm a 14 year old male who likes to program dumpster fire.
+- I like C, so im triying to learn it.
+- If you wanna hire me, well ya' can't because I'm 14.
+
 - [Twitter](https://https://twitter.com/AWonkeyTortila "Twitter")
 
 <p align="left">
