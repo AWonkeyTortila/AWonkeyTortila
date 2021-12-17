@@ -1,8 +1,8 @@
- <h2>Hello, welcome to my profile! 👋</h2>
+# Hello, welcome to my profile! 👋
  
-<h3>I work on several Open-Sourced (and Closed-Sourced) projects. These projects range from silly things to down-right cursed. Most (if not all) of the Closed-Sourced projetcs are either too cursed, archival, etc.</h3>
+<h3>I like coding stuff, such as wesbistes and apps for fun. When I'm older, I wanna be a operating system engineer. Computer science 💪</h3>
 
-![Twitter Badge](https://img.shields.io/badge/-@AWonkeyTortila-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AWonkeyTortila)
+- [Twitter](https://https://twitter.com/AWonkeyTortila "Twitter")
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" height=200px/>
