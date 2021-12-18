@@ -4,7 +4,7 @@
 
 # Info & Stuff:
 
-- I'm a 14 year old male who likes to program dumpster fire.
+- I'm a 14 year old male who likes to program dumpster fires.
 - I like C, so im triying to learn it.
 - If you wanna hire me, well ya' can't because I'm 14.
 
