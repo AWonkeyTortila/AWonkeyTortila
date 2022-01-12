@@ -21,8 +21,5 @@
 - [Youtube](https://www.youtube.com/channel/UCNEt8wd7BzBhzVEMJzD-ZFA "Youtube")
 
 # Statistics:
-<!-- Spaghetti code. (Real spaghetti code is VALVe games.) -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" height=200px/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" height=200px/>
-</p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=1000px height=200px/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" width=1000px height=200px/>
