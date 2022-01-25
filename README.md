@@ -10,10 +10,8 @@
 
 # Programing Languages & Frameworks.:
 
-    - Markdown.
-    - HTML & CSS.
-    - A bit of C, C++, and C#. (.Net while you're at it.)
-    - A decent knowledge of lua.
+    - So far I don't know one langauge perfeclty well, but I plan on learning C.
+    - Some ammount of HTML & CSS.
     
 # Links:
 
