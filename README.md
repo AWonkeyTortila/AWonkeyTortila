@@ -1,6 +1,6 @@
 # Hello, welcome! 👋
  
-    I like coding stuff, such as wesbistes and apps for fun. When I'm older, I wanna be a operating system engineer.
+    I like coding stuff, such as wesbistes and apps for fun. When I'm older, I wanna be an operating system engineer.
 
 # Info & Stuff:
 
