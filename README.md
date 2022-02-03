@@ -1,23 +1,17 @@
-# Hello, welcome! 👋
- 
-    I like coding stuff, such as wesbistes and apps for fun. When I'm older, I wanna be an operating system engineer.
+# Hello There! 👋
+Hello, my name is Wonkey! This is my Github profile. Here, you will find many things both cool & awful (mostly awful though.)
 
-# Info & Stuff:
-
-    - I'm a 14 year old male who likes to program random things.
-    - I like making old, bloated code, great again.
-    - I like waffels.
-
-# Programing Languages & Frameworks.:
-
-    - So far I don't know one langauge perfeclty well, but I plan on learning C.
-    - Some ammount of HTML & CSS.
+# Information & Facts:
+- I'm a 15 year old from California
+- I like video games, music, & obviously coding.
+- I speak both English & Spanish, and currently learning French. (I also plan to learn Russian & Japanese.)
+<!-- Russian for Putin & Japanese for security reasons. I'm not a weeb, I swear! -->
     
 # Links:
-
-- [Twitter](https://twitter.com/Wonk_Bonk "Twitter")
-- [Youtube](https://www.youtube.com/channel/UCNEt8wd7BzBhzVEMJzD-ZFA "Youtube")
+- [Twitter Profile](https://twitter.com/Wonk_Bonk "Twitter Profile")
+- [Youtube Profile](https://www.youtube.com/channel/UCNEt8wd7BzBhzVEMJzD-ZFA "Youtube Profile")
+- [Discord Server](https://discord.gg/JHmK4KKX5X "Discord Server")
 
 # Statistics:
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=1000px height=200px/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" width=1000px height=200px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=1000px height=200px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" width=1000px height=200px/>
