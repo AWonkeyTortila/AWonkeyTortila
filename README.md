@@ -1,4 +1,4 @@
-<img src="./background/header.png">
+<img src="./background/cover.png">
 <!-- I tought it was a cute background lol. Plus I love Clannad. -->
 
 <!-- Credits:
