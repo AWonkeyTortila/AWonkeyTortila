@@ -9,9 +9,6 @@
 <h3>Hello, my name is Wonkey! I like coding, weightlifting, computer hardware (and software), video games, and anime.
 <!-- Some  anime's however. My favourites are Envagelion, Clannad, Toradora!, Darling in the FranXX, etc. -->
 
-# What I like to do
-<h3>I like to code and mess around with software & hardware.</h3>
-
 # Projects
 1. <h3>SBCUSD-News</h3><img src="https://img.shields.io/badge/Development-Pre--Canidate-blue">
 
