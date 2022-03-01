@@ -17,5 +17,9 @@
 # Goals
 <h3>1. Learn C and Asembler (x86)</h3>
 <h3>2. Contribute to a project (Powertoys or Linux Kernel)</h3>
-
+    
+# Account & Language Statistics:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=480px height=250px/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" width=480px height=250px/>
+    
 <!-- Wonkey -->
