@@ -10,10 +10,12 @@
 <!-- Some  anime's however. My favourites are Envagelion, Clannad, Toradora!, Darling in the FranXX, etc. -->
 
 # Projects
-1. <h3>SBCUSD-News</h3><img src="https://img.shields.io/badge/Development-Pre--Canidate-blue">
+1. <h3>SBCUSD News</h3><img src="https://img.shields.io/badge/Development-Pre--Canidate-blue">
+2. <h3>Arroyo Social Club</h3><img src="https://img.shields.io/badge/Development-Not%20Begun-red">
+3. <h3>Language Library</h3><img src="https://img.shields.io/badge/Development-Pre--Milestone%201-yellow">
 
 # Goals
 <h3>1. Learn C and Asembler (x86)</h3>
-<h3>2. Contribute to a project</h3>
+<h3>2. Contribute to a project (Powertoys or Linux Kernel)</h3>
 
 <!-- Wonkey -->
