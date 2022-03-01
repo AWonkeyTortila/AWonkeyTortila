@@ -1,4 +1,9 @@
 <img src="./background/cover.png">
+<div>
+<img src="https://img.shields.io/badge/English-A%2B-blue"> <!-- 1rst language -->
+<img src="https://img.shields.io/badge/Spanish-C%2B-yellow"> <!-- For relatives and parents (2nd) -->
+<img src="https://img.shields.io/badge/French-D---red"> <!-- Eva smh -->
+</div>
 <!-- I tought it was a cute background lol. Plus I love Clannad. -->
 
 <!-- Credits:
