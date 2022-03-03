@@ -17,7 +17,7 @@
 # Projects
 1. <h3>SBCUSD News</h3><img src="https://img.shields.io/badge/Development-Pre--Canidate-blue">
 2. <h3>Arroyo Social Club</h3><img src="https://img.shields.io/badge/Development-Not%20Begun-red">
-3. <h3>Language Library</h3><img src="https://img.shields.io/badge/Development-Pre--Milestone%201-yellow">
+3. <h3>Language Library</h3><img src="https://img.shields.io/badge/Development-Not%20Begun-red">
 
 # Goals
 <h3>1. Learn C and Asembler (x86)</h3>
