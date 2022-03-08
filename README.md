@@ -1,8 +1,10 @@
 <img src="./background/cover.png">
 <div>
 <img src="https://img.shields.io/badge/English-A%2B-blue"> <!-- 1rst language -->
-<img src="https://img.shields.io/badge/Spanish-C%2B-yellow"> <!-- For relatives and parents (2nd) -->
-<img src="https://img.shields.io/badge/French-D---red"> <!-- Eva smh -->
+<img src="https://img.shields.io/badge/español-B-yellowgreen"> <!-- For relatives and parents (2nd) -->
+<img src="https://img.shields.io/badge/français-apprentissage-red"> <!-- Eva smh -->
+<img src="https://img.shields.io/badge/Русский-отложено-red"> <!-- Mr. Putin why :( -->
+<img src="https://img.shields.io/badge/日本 -遅延-red"> <!-- I'm not a weeb, I swear! (Sorry if I spelt something wrong lol -->
 </div>
 <!-- I tought it was a cute background lol. Plus I love Clannad. -->
 
