@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/español-B-yellowgreen"> <!-- For relatives and parents (2nd) -->
 <img src="https://img.shields.io/badge/français-apprentissage-red"> <!-- Eva smh -->
 <img src="https://img.shields.io/badge/Русский-отложено-red"> <!-- Mr. Putin why :( -->
-<img src="https://img.shields.io/badge/日本 -遅延-red"> <!-- I'm not a weeb, I swear! (Sorry if I spelt something wrong lol -->
 </div>
 <!-- I tought it was a cute background lol. Plus I love Clannad. -->
 
@@ -17,7 +16,7 @@
 <!-- Some  anime's however. My favourites are Envagelion, Clannad, Toradora!, Darling in the FranXX, etc. -->
 
 # Projects
-1. <h3>SBCUSD News</h3><img src="https://img.shields.io/badge/Development-Pre--Canidate-blue">
+1. <h3>SBCUSD News Overhaul (1.1)</h3><img src="https://img.shields.io/badge/Development-Pre--Canidate-blue">
 
 # Goals
 <h3>1. Learn C and Asembler (x86)</h3>
