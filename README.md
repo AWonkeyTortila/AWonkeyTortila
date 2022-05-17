@@ -3,11 +3,10 @@
 <img src="https://img.shields.io/badge/English-A%2B-blue"> <!-- 1rst language -->
 <img src="https://img.shields.io/badge/español-B-yellowgreen"> <!-- For relatives and parents (2nd) -->
 <img src="https://img.shields.io/badge/français-apprentissage-red"> <!-- Eva smh -->
-<img src="https://img.shields.io/badge/Русский-отложено-red"> <!-- Mr. Putin why :( -->
 </div>
 <!-- I tought it was a cute background lol. Plus I love Clannad. -->
 
-<!-- Credits:
+<!-- Image credits:
     header.png -> https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Fuko_Ibuki_Holding_Up_C.jpg
 -->
 
@@ -20,7 +19,7 @@
 
 # Goals
 <p>1. Learn C and Asembler (x86)</p>
-<p>2. Contribute to a project (Powertoys or Linux Kernel, etc)<h3>X</h3></p>
+<p>2. Contribute to a project (Powertoys or Linux Kernel, etc)</p>
     
 # Account & Language Statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
