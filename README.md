@@ -12,18 +12,18 @@
 -->
 
 # Welcome!
-<h3>Hello, my name is Wonkey! I like coding, weightlifting, computer hardware (and software), video games, and anime.
+<p>Hello, my name is Wonkey! I like coding, weightlifting, computer hardware (and software), video games, and anime.</p>
 <!-- Some  anime's however. My favourites are Envagelion, Clannad, Toradora!, Darling in the FranXX, etc. -->
 
 # Projects
-1. <h3>SBCUSD News Overhaul (1.1)</h3><img src="https://img.shields.io/badge/Development-Pre--Canidate-blue">
+<h4>1. OpenWiki</h3><img src="https://img.shields.io/badge/Build-proof%20of%20concept-lightgrey"></h4>
 
 # Goals
-<h3>1. Learn C and Asembler (x86)</h3>
-<h3>2. Contribute to a project (Powertoys or Linux Kernel)</h3>
+<p>1. Learn C and Asembler (x86)</p>
+<p>2. Contribute to a project (Powertoys or Linux Kernel, etc)<h3>X</h3></p>
     
 # Account & Language Statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
     
-<!-- Wonkey -->
+<!-- (c) Wonkey -->
