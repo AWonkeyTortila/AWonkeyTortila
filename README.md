@@ -14,7 +14,11 @@
 <p>Hello, my name is Wonkey! I like programming, weightlifting, and doing some crazy but fun stuff in the realm of computing.
 
 ## Projects
-<h4>1. OpenWiki</h3><img src="https://img.shields.io/badge/Build-proof%20of%20concept-lightgrey"></h4>
+<div>
+    <img src="https://img.shields.io/badge/OpenWiki-Proof%20Of%20Concept-lightgrey">
+    <img src="https://img.shields.io/badge/XTerminal-Development-yellow">
+    <img src="https://img.shields.io/badge/ECT--Redux-waiting-red">
+</div>
 
 ## Goals
 <p>1. Learn C and Asembler (x86)</p>
