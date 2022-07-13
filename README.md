@@ -11,18 +11,7 @@
 -->
 
 ## Welcome!
-<p>Hello, my name is Wonkey! I like programming, weightlifting, and doing some crazy but fun stuff in the realm of computing.
-
-## Projects
-<div>
-    <img src="https://img.shields.io/badge/OpenWiki-Proof%20Of%20Concept-lightgrey">
-    <img src="https://img.shields.io/badge/XTerminal-Development-yellow">
-    <img src="https://img.shields.io/badge/ECT--Redux-waiting-red">
-</div>
-
-## Goals
-<p>1. Learn C and Asembler (x86)</p>
-<p>2. Contribute to a project (Powertoys or Linux Kernel, etc)</p>
+<p>Hello, my name is Wonkey! I like programming, weightlifting, making video games & tect demos. I also like older software and hardware, such as XP, 9x/2000, and early versions of OSX.</p>
     
 ## Account & Language Statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
