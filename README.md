@@ -11,17 +11,16 @@
 -->
 
 ## Welcome!
-<p>Hello, my name is Wonkey! I like programming, weightlifting, and doing some crazy but fun stuff in the realm of computing.
-
-## Projects
-<h4>1. OpenWiki</h3><img src="https://img.shields.io/badge/Build-proof%20of%20concept-lightgrey"></h4>
-
-## Goals
-<p>1. Learn C and Asembler (x86)</p>
-<p>2. Contribute to a project (Powertoys or Linux Kernel, etc)</p>
+<p>Hello, my name is Wonkey! I like programming, weighlifting, making games, etc!</p>
     
-## Account & Language Statistics:
+## Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
+
+<!--
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+-->
     
 <!-- (c) Wonkey -->
