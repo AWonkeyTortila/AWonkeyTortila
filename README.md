@@ -1,4 +1,4 @@
-<img src="./background/cover.png" height="300" width="100%">
+<!-- <img src="./background/cover.png" height="300" width="100%"> -->   10:45AM PST Apr 8th, Removed cuz wifey didnt like
 <div>
 <img src="https://img.shields.io/badge/English-A%2B-blue"> <!-- 1rst language -->
 <img src="https://img.shields.io/badge/español-B-yellowgreen"> <!-- For relatives and parents (2nd) -->
