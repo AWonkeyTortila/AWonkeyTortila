@@ -11,7 +11,7 @@
 <div>
     <br>
     <p>Languages known:</p>
-    <img src="https://img.shields.io/badge/HTML-Orange">
+    <img src="https://img.shields.io/badge/HTML-red">
     <img src="https://img.shields.io/badge/CSS-blue">
     <img src="https://img.shields.io/badge/some-C-grey">
     <img src="https://img.shields.io/badge/some-CSharp-purple">
