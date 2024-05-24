@@ -14,7 +14,7 @@
 ## Welcome!
 <p>Hello, my name is Wonkey! I like programming, weightlifting, making video games & tect demos. I also like older software and hardware, such as XP, 9x/2000, and early versions of OSX.</p>
     
-## Account & Language Statistics:
+<!-- ## Account & Language Statistics: -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AWonkeyTortila&show_icons=true&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWonkeyTortila&layout=compact&theme=tokyonight" alt="Profile Stats" width=400px height=250px/>
     
