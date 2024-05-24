@@ -2,7 +2,8 @@
 <div>
 <img src="https://img.shields.io/badge/English-A%2B-blue"> <!-- 1rst language -->
 <img src="https://img.shields.io/badge/español-B-yellowgreen"> <!-- For relatives and parents (2nd) -->
-<img src="https://img.shields.io/badge/français-apprentissage-red"> <!-- Eva smh -->
+<img src="https://img.shields.io/badge/français-C-yellow"> <!-- Eva smh -->
+<img src="https://img.shields.io/badge/Polski-cierpienie-red"> <!-- 9:47 Thu May 23 2024 -->
 </div>
 <!-- I tought it was a cute background lol. Plus I love Clannad. -->
 
