@@ -2,7 +2,7 @@
 <div>
 <p>Languages I speak:</p>
 <img src="https://img.shields.io/badge/English-A%2B-blue"> <!-- 1rst language -->
-<img src="https://img.shields.io/badge/español-B-yellowgreen"> <!-- For relatives and parents (2nd) -->
+<img src="https://img.shields.io/badge/español-B%2B-yellowgreen"> <!-- For relatives and parents (2nd) -->
 <img src="https://img.shields.io/badge/français-C-yellow"> <!-- Eva smh -->
 <img src="https://img.shields.io/badge/Polski-cierpienie-red"> <!-- 9:47 Thu May 23 2024 -->
 </div>
@@ -13,7 +13,7 @@
     <p>Languages known:</p>
     <img src="https://img.shields.io/badge/HTML-red">
     <img src="https://img.shields.io/badge/CSS-blue">
-    <img src="https://img.shields.io/badge/some-C-grey">
+    <img src="https://img.shields.io/badge/some-C%2B%2B-grey">
     <img src="https://img.shields.io/badge/some-CSharp-purple">
 </div>
 
